@@ -1,0 +1,10 @@
+body{
+background-color: #f7f1e3;
+}
+.bg-success{
+    border-radius: 5px;
+    color: #fff;
+}
+#output{
+    color: #333;
+}
